@@ -1,0 +1,19 @@
+.hero1{width: 100%;}
+#hero2{background-color: #F5FAFE;}
+#UP{border-bottom: 4px solid blue; border-top: 2px solid blue;}
+.big{font-size: 30px; font-family: bold; }
+.big a{text-decoration: none;color: black;}
+#para{font-size: 16px;}
+
+.news{color: white; border-bottom: 1px solid white; border-top: 2px solid white; font-size: 25px;}
+.bob{border-radius: 20px; }
+.line{border-bottom: 1px solid #000000;border-top: 2px solid black; text-decoration: none; color: black; font-size: 30px;}
+.ps{font-size: 24px;}
+.borders{border: 2px solid #E8E8F0; border-radius: 26px;}
+#hero3{background-color: #F6F7FA; width: 100%;}
+.our{border-bottom: 1px solid blue ;border-top: 2px solid blue; text-decoration: none;color: black; font-size: 30px;}
+#hero5{background-color: #F6F7FA;width: 100%;}
+.hero6{background-color: #1268C5; color: white;}
+.sym i{width: 35px; color: white;}
+.hero6 a {text-decoration: none; color: white; font-size: 20px;}
+.last{background-color: #0051A9;}
